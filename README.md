@@ -17,7 +17,7 @@ Tech Stack
 <tr>
  <td width="70%">
    <ul>
-     <li> Hi, I'm Justin Delos Angeles. I am a 3rd Year Information Technology Student from University of the East. I'm a curious and creative person who is always looking for new challenges. I'm passionate about learning and exploring new things, and I'm always eager to share my knowledge and experiences with others. I'm also a strong believer in collaboration and teamwork, and I'm always looking for ways to work with others to achieve common goals.
+     <li> Hi, I'm Justin Delos Angeles. I am a 4th Year Information Technology Student from University of the East. I'm a curious and creative person who is always looking for new challenges. I'm passionate about learning and exploring new things, and I'm always eager to share my knowledge and experiences with others. I'm also a strong believer in collaboration and teamwork, and I'm always looking for ways to work with others to achieve common goals.
      </li>  
    </ul> 
 </td>
